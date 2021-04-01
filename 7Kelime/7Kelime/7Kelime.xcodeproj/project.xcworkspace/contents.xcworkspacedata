@@ -2,6 +2,36 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:7Kelime.xcodeproj">
+      location = "absolute:/Users/hasandag 1/Desktop/COME492/7Kelime/7Kelime/7Kelime/level1.txt">
+   </FileRef>
+   <FileRef
+      location = "absolute:/Users/hasandag 1/Desktop/COME492/7Kelime/7Kelime/7Kelime/level2.txt">
+   </FileRef>
+   <FileRef
+      location = "absolute:/Users/hasandag 1/Desktop/COME492/7Kelime/7Kelime/7Kelime/level3.txt">
+   </FileRef>
+   <FileRef
+      location = "absolute:/Users/hasandag 1/Desktop/COME492/7Kelime/7Kelime/7Kelime/level4.txt">
+   </FileRef>
+   <FileRef
+      location = "absolute:/Users/hasandag 1/Desktop/COME492/7Kelime/7Kelime/7Kelime/level5.txt">
+   </FileRef>
+   <FileRef
+      location = "absolute:/Users/hasandag 1/Desktop/COME492/7Kelime/7Kelime/7Kelime/level6.txt">
+   </FileRef>
+   <FileRef
+      location = "absolute:/Users/hasandag 1/Desktop/COME492/7Kelime/7Kelime/7Kelime/level7.txt">
+   </FileRef>
+   <FileRef
+      location = "absolute:/Users/hasandag 1/Desktop/COME492/7Kelime/7Kelime/7Kelime/level8.txt">
+   </FileRef>
+   <FileRef
+      location = "absolute:/Users/hasandag 1/Desktop/COME492/7Kelime/7Kelime/7Kelime/level9.txt">
+   </FileRef>
+   <FileRef
+      location = "absolute:/Users/hasandag 1/Desktop/COME492/7Kelime/7Kelime/7Kelime/level10.txt">
+   </FileRef>
+   <FileRef
+      location = "self:">
    </FileRef>
 </Workspace>
