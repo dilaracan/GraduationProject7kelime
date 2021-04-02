@@ -2,7 +2,7 @@
 //  MainMenuViewController.swift
 //  7Kelime
 //
-//  Created by Hasan Dagg on 21.12.2020.
+//  Created by  Dilara CAN on 15.12.2020.
 //  Copyright © 2020 Come492. All rights reserved.
 //
 
