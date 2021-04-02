@@ -2,7 +2,7 @@
 //  PlayerData.swift
 //  7Kelime
 //
-//  Created by Amer Atia on 10.01.2021.
+//  Created by  Dilara CAN on 15.12.2020.
 //  Copyright © 2021 Come492. All rights reserved.
 //
 
